@@ -5,6 +5,6 @@ if (number > 0) {
 } else if
     (number < 0) {
     alert(-1);
-}else {
+} else {
     alert(0);
 }
